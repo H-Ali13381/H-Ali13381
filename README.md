@@ -1,4 +1,4 @@
-# Hey there, I'm Hasan
+# Hey there, I'm Hasan 👋
 
 I got my first real look at AI from the receiving end of it. I worked a call-center job at TELUS, in customer service, watching AI get pushed onto customers who didn't want it — automated answers, redirects, menus that led nowhere. The technology was genuinely capable. It was just aimed at the wrong target: cut headcount, deflect calls, treat support as a cost instead of a job worth doing well.
 
